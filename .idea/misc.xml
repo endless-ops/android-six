@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main.xml" value="0.240625" />
+        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_bofang_video.xml" value="0.240625" />
         <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_bofang_yinpin.xml" value="0.240625" />
+        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_fuzhi_zhantie.xml" value="0.240625" />
         <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_notification.xml" value="0.240625" />
+        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_webview.xml" value="0.11702127659574468" />
+        <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_main_zhiding_brower_open_web.xml" value="0.240625" />
         <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/activity_notification.xml" value="0.240625" />
         <entry key="..\:/projectworkspace/android-workspace/android-six/app/src/main/res/layout/layout_custom_notification.xml" value="0.240625" />
       </map>
